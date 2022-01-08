@@ -1,8 +1,9 @@
 # ds-algo-proj-suffixarray
-# The goal of this project is to adapt algorithms that sort numbers to the task of sorting all suffixes of a given a string in lexicographic (dictionary) order. 
 
 
-# Suffix arrays are widely used in fields that deal with sequence data e.g. Natural language processing, bioinformatics, etc --  where they are used for rapid pattern matching.
+The goal of this project is to adapt algorithms that sort numbers to the task of sorting all suffixes of a given string in lexicographic (dictionary) order. 
+
+Suffix arrays are widely used in fields that deal with sequence data e.g. Natural language processing, bioinformatics, etc --  where they are used for rapid pattern matching.
 
 Limitation: Only accepts strings composed of the characters [a,c,g,t]
 
